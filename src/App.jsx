@@ -7,6 +7,7 @@ import Counter from './counter/Counter'
 function App() {
   return (
     <>
+    <h2>This is counter session.</h2>
       <Counter/>
     </>
   )
